@@ -1,0 +1,12 @@
+{
+    "name": "weather",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "nw src/",
+        "prod": "nwbuild --platform win --outDir dist/ --mode build --glob=false src/"
+    },
+    "devDependencies": {
+        "nw": "^0.80.0",
+        "nw-builder": "^4.4.1"
+    }
+}

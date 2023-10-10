@@ -1,0 +1,11 @@
+{
+    "name": "weather",
+    "main": "index.html",
+    "window": {
+        "width": 800,
+        "height": 400,
+        "min_width": 800,
+        "min_height": 400,
+        "position": "center"
+    }
+}
